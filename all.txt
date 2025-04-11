@@ -6,3 +6,8 @@ This is task for 3rd class for unix.
 jfjfhjfhjfhjfhJFHf
 jhfjhfjhfjhfjahfHFhfkHKH
 JHFJHFAHFHFHKFHHF
+this is the chenges for checking diss command
+cat all.txt
+cat diff
+cthis is for diss command.
+:wq
